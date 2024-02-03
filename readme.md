@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 # Hello man
+
+
 
 # hi
